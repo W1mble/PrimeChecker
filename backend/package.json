@@ -1,0 +1,21 @@
+{
+  "name": "primebackend",
+  "version": "0.0.1",
+  "description": "Backend for calculating prime numbers",
+  "main": "index.js",
+  "scripts": {
+	"setup": "npm install && npm start",
+    "start": "start http://localhost:3001 && set NODE_ENV=production && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Ville Selkämaa",
+  "license": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
