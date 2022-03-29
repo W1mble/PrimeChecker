@@ -1,5 +1,7 @@
 Alkulukujen tarkistus käyttäen Reactia frontendissä ja backendissä Expressiä.
 
+Vaatii, että Node.js asennettu (npm asentuu mukana)
+
 Ohjelman saa käyntiin kun avaa komentokehotteen backend-kansion juuressa ja kirjoittaa siihen: npm run setup
 
 Tämä asentaa riippuvuudet, asettaa Expressiin production moodiin ja avaa verkkoselaimen http://localhost:3001/ osoitteeseen.
