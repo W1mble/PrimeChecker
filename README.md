@@ -17,6 +17,5 @@ Kehitettävää (jätetty pois ajallisista syistä):
 - Backendin virheenkäsittelyä voisi parantaa
 - Backendissä turvallisuutta pitäisi parantaa esim middlewarella, jolla voidaan hoitaa validointia, koska tällä hetkellä käyttäjän lähettämää dataa ei tarkasteta sen kummemmin, 
 fronendissä perus regex tarkistus, mutta tämä ei ole riittävää.
-- CSS voi olla pientä viilattavaa
+- CSS voi olla pientä viilattavaa nimeämisessä (.PrimeButton pitäisi olla esim .PrimeContainer)
 - Koodia voisi mahdollisesti kommentoida, koodin pitäisi olla kuitenkin selkeää, joten kommentointi voisi aiheuttaa vaan vaikeammin luettavaa koodia.
-
